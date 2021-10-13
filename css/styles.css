@@ -6,3 +6,16 @@
 {
   color: rgb(197, 25, 25);
 }
+
+h1 {
+  margin-top: 50px;
+}
+
+h2 {
+  margin-top: 10%;
+}
+
+p {
+  margin-top: 2%;
+  margin-bottom: 4%;
+}
